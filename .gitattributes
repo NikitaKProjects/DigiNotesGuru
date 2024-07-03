@@ -1,0 +1,11 @@
+# SQL files
+*.sql linguist-language=SQL
+
+# JSP files
+*.jsp linguist-language=HTML
+
+# Java files
+*.java linguist-language=Java
+
+# CSS files
+*.css linguist-language=CSS
