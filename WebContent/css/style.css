@@ -1,0 +1,32 @@
+.bg-custom {
+	background: #e57373 ;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.btn-outline-black {
+	color: #000; /* Text color */
+	border-color: #000; /* Border color */
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: #d7ccc8;
+	color: black;
+	border-radius: 10px;
+}
+
+.div-color {
+	background-image: linear-gradient(to right top, #fbffbb, #fcf9b6, #fdf3b2, #feeeae,
+		#fee8aa, #fddf9e, #fdd693, #fdcc89, #fdbc76, #feab64, #fe9956, #ff864b
+		);
+		height: 507px;
+}
